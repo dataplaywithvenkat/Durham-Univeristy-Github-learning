@@ -1,6 +1,6 @@
 ## 🌐 What is GitHub Pages?
 
-[Markdown Syntax](./markdown-syntax)
+[Markdown Syntax](./markdown-syntax.md)
 
 
 
