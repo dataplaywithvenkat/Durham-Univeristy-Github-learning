@@ -1,6 +1,7 @@
 ## 🌐 What is GitHub Pages?
 
-[markdown-syntax.md](markdown-syntax.md)
+[Markdown Syntax](./markdown-syntax)
+
 
 
 **GitHub Pages** is a **free web hosting service** offered by GitHub that lets you **turn a GitHub repository into a live website**.
