@@ -1,5 +1,7 @@
 ## 🌐 What is GitHub Pages?
 
+[Create Github Repository](./setup-github-pages.md)
+
 [Markdown Syntax](./markdown-syntax.md)
 
 
