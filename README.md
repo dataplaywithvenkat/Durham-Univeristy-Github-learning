@@ -43,10 +43,15 @@ There are **3 ways** to use GitHub Pages:
 ### 🧪 Features & Benefits
 
 ✅ **Free hosting** – No server or domain needed
+
 ✅ **Simple setup** – Create and publish in minutes
+
 ✅ **Version controlled** – Everything is managed with Git
+
 ✅ **Markdown support** – Write content easily
+
 ✅ **Jekyll integration** – Use themes, templates, and blogs
+
 ✅ **HTTPS by default** – Secure by design
 
 ---
