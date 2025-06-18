@@ -1,5 +1,4 @@
 remote_theme: jekyll/minima
-title: Minima
 
 plugins:
   - jekyll-seo-tag
