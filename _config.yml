@@ -1,5 +1,64 @@
-remote_theme: pages-themes/cayman
-title: Cayman
+# Uncomment one remote_theme at a time to test different themes
 
-gems:
-   - jekyll-seo-tag
+# remote_theme: jekyll/minima
+# title: Minima
+
+plugins:
+  - jekyll-seo-tag
+
+# remote_theme: pages-themes/primer
+# title: Primer
+
+# remote_theme: pages-themes/cayman
+# title: Cayman
+
+# remote_theme: pages-themes/slate
+# title: Slate
+
+# remote_theme: pages-themes/architect
+# title: Architect
+
+# remote_theme: pages-themes/modernist
+# title: Modernist
+
+remote_theme: pages-themes/tactile
+title: Tactile
+
+# remote_theme: pages-themes/midnight
+# title: Midnight
+
+# remote_theme: pages-themes/merlot
+# title: Merlot
+
+# remote_theme: pages-themes/leap-day
+# title: Leap Day
+
+# remote_theme: pages-themes/hacker
+# title: Hacker
+
+# remote_theme: pages-themes/dinky
+# title: Dinky
+
+# remote_theme: pages-themes/slide
+# title: Slide
+
+# remote_theme: pages-themes/minimal
+# title: Minimal
+
+# remote_theme: pages-themes/whiteglass
+# title: Whiteglass
+
+# remote_theme: pages-themes/beautiful-jekyll
+# title: Beautiful Jekyll
+
+# remote_theme: jekyll-theme-cayman
+# title: Cayman (jekyll-theme)
+
+# remote_theme: jekyll-theme-slate
+# title: Slate (jekyll-theme)
+
+# remote_theme: jekyll-theme-minimal
+# title: Minimal (jekyll-theme)
+
+# remote_theme: jekyll-theme-midnight
+# title: Midnight (jekyll-theme)
