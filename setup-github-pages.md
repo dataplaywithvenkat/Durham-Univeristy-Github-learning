@@ -1,7 +1,6 @@
----
-layout: post
+
 title: "How to Set Up Your First GitHub Page Using Markdown"
----
+
 
 ## Step 1: Create a GitHub Account (If you don't have one)
 
