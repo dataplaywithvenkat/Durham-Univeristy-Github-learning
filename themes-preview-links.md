@@ -1,4 +1,3 @@
-````markdown
 # GitHub Pages Themes Preview + `_config.yml` Snippets
 
 ---
