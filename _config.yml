@@ -22,7 +22,7 @@ remote_theme: jeffreytse/jekyll-theme-yat
 title: YAT
 
 gems:
-- jekyll-seo-tag
+   - jekyll-seo-tag
 
 # remote_theme: dracula/artsylab-jekyll
 # title: Artsy
