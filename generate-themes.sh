@@ -28,7 +28,7 @@ for THEME in "${THEMES[@]}"; do
 
   # Copy shared files
   for FILE in "${FILES[@]}"; do
-    cp "../${FILE}" ./
+    cp "./${FILE}" ./
   done
 
   # Create _config.yml
