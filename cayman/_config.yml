@@ -1,0 +1,6 @@
+remote_theme: pages-themes/architect
+title: Architect
+
+
+plugins:
+  - jekyll-seo-tag
