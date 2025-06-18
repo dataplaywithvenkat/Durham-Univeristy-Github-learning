@@ -1,6 +1,5 @@
-remote_theme: pages-themes/architect
-title: Architect
+remote_theme: jekyll/minima
+title: Minima
 
-
-plugins:
+gems:
   - jekyll-seo-tag
