@@ -1,5 +1,5 @@
-remote_theme: pages-themes/primer
-title: Primer
+remote_theme: pages-themes/cayman
+title: Cayman
 
 gems:
    - jekyll-seo-tag
