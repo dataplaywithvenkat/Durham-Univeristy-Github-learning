@@ -177,7 +177,7 @@ Use the `cd` command
 
 | 📝 Markdown                              | 🔧 HTML                          |
 |-----------------------------------------|----------------------------------|
-| <pre>```python<br>print("Hi")<br>```</pre> | `<pre><code class="language-python">print("Hi")</code></pre>` |
+| ```markdown ```python print("Hi")``` | `<pre><code class="language-python">print("Hi")</code></pre>` |
 
 📄 **Output**:
 
