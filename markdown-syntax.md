@@ -42,11 +42,12 @@
 | 📝 Markdown                     | 🔧 HTML                          |
 |-------------------------------|----------------------------------|
 | `This is a paragraph.`        | `<p>This is a paragraph.</p>`    |
-| `Line 1  <br>Line 2`          | `Line 1<br>Line 2`               |
+| `Line 1  <br> Line 2`          | `Line 1<br>Line 2`               |
 
 📄 **Output**:
 
 This is a paragraph.  
+
 Line 1  
 Line 2
 
@@ -106,11 +107,11 @@ Line 2
 
 | 📝 Markdown                          | 🔧 HTML                                  |
 |-------------------------------------|------------------------------------------|
-| `[OpenAI](https://openai.com)`      | `<a href="https://openai.com">OpenAI</a>` |
+| `[Google](https://www.google.com)`      | `<a href="https://www.google.com">Google</a>` |
 
 📄 **Output**:
 
-[OpenAI](https://openai.com)
+[Google]([https://www.google.com])
 
 🧠 **Explanation**: The text in `[]` is what’s shown; the URL in `()` is the destination.
 
@@ -120,11 +121,11 @@ Line 2
 
 | 📝 Markdown                                         | 🔧 HTML                                              |
 |----------------------------------------------------|------------------------------------------------------|
-| `![Alt text](https://via.placeholder.com/100)`     | `<img src="https://via.placeholder.com/100" alt="Alt text">` |
+| `![Alt Unilogo](https://github.com/user-attachments/assets/ac9c94b3-e5c2-468d-b13e-1cfdfb082b13)`     | `<img src="https://github.com/user-attachments/assets/ac9c94b3-e5c2-468d-b13e-1cfdfb082b13" alt="Alt Unilogo">` |
 
 📄 **Output**:
 
-![Alt text](https://via.placeholder.com/100)
+![Alt Unilogo](https://github.com/user-attachments/assets/ac9c94b3-e5c2-468d-b13e-1cfdfb082b13)
 
 🧠 **Explanation**: Same as links but with an exclamation mark. Use for adding images.
 
