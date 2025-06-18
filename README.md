@@ -4,6 +4,8 @@
 
 [Markdown Syntax](./markdown-syntax.md)
 
+[Themes Preview Links](./themes-preview-links.md)
+
 
 
 **GitHub Pages** is a **free web hosting service** offered by GitHub that lets you **turn a GitHub repository into a live website**.
