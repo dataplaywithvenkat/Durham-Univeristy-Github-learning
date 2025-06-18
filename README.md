@@ -1,6 +1,8 @@
 ---
-title: "What is GitHub Pages?"
+title: "GitHub Pages"
 ---
+
+# What is Github Pages
 
 **GitHub Pages** is a **free web hosting service** offered by GitHub that lets you **turn a GitHub repository into a live website**.
 
