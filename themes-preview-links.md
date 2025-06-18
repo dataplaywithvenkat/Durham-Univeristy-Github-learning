@@ -1,5 +1,6 @@
-# GitHub Pages Themes Preview + `_config.yml` Snippets
-
+---
+title: "GitHub Pages Themes Preview + _config.yml Snippets"
+---
 ---
 
 ### 1. [Hacker](https://pages-themes.github.io/hacker/)
