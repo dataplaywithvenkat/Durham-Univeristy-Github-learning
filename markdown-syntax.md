@@ -1,5 +1,6 @@
-title : "Markdown Syntax"
-----
+---
+title: "Explaining Markdown Syntax"
+---
 # Table of Contents
 
 - [1. Headings](#1-headings)
