@@ -1,5 +1,109 @@
-remote_theme: jekyll/minima
-title: Minima
+# remote_theme: jekyll/minima
+# title: Minima
 
-gems:
-  - jekyll-seo-tag
+# gems:
+#  - jekyll-seo-tag
+
+# Uncomment one of the following themes and comment out the above to switch:
+
+# remote_theme: pages-themes/slate
+# title: Slate
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: lewismiddleton/cayman-dark
+# title: Cayman Dark
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: jeffreytse/jekyll-theme-yat
+# title: YAT
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: dracula/artsylab-jekyll
+# title: Artsy
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: maximevaillancourt/digital-garden-jekyll-template
+# title: Digital Garden
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: YoussefRaafatNasry/portfolYOU
+# title: PortfolYOU
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: syui/jekyll-theme-syue
+# title: Particle
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: pages-themes/hacker
+# title: Hacker
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: klise/jekyll-klise
+# title: Klisé
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: pmarsceill/just-the-docs
+# title: Just the Docs
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: pmarsceill/just-the-docs
+# title: Another Docs Theme
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: millerjohns/jekyll-theme-chirpy
+# title: Chirpy
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: pages-themes/architect
+# title: Architect
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: pages-themes/leap-day
+# title: Leap Day
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: pages-themes/merlot
+# title: Merlot
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: pages-themes/primer
+# title: Primer
+
+# gems:
+#   - jekyll-seo-tag
+
+# remote_theme: pages-themes/tactile
+# title: Tactile
+
+# gems:
+#   - jekyll-seo-tag
