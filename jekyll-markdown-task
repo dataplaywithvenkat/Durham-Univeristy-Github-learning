@@ -1,1 +1,23 @@
-Testing the page
+
+## 🔧 **Project Setup (Tasks 1–5)**
+
+1. **Create a GitHub Repository** named `jekyll-markdown-pages`.
+2. **Set up GitHub Pages** from the repository (via `main` branch or `/docs` folder).
+3. **Install Jekyll locally** or use GitHub’s remote build option.
+4. **Create a basic Jekyll site** using `jekyll new` or by manually configuring `_config.yml`.
+5. **Ensure site builds** and is visible on GitHub Pages.
+
+---
+
+## 🧱 **Markdown Syntax Implementation (Tasks 6–15)**
+
+6. **Add a Heading** (`#`, `##`, etc.) to a new page (e.g., `syntax-demo.md`).
+7. **Create a Table** showing team members and their roles.
+8. **Write a Paragraph** explaining the goal of the project.
+9. **Embed Code Block** with triple backticks (\`\`\`) showing a sample Jekyll configuration.
+10. **Make a List** (ordered and unordered) describing your tasks.
+11. **Add an Image** to the site using Markdown syntax.
+12. **Insert a Link** to an external site (e.g., [Jekyll docs](https://jekyllrb.com/)).
+13. **Use Blockquote** to highlight a famous quote about open source.
+14. **Use Bold (`**`) and Italic (`*`)** text in content.
+15. **Use Bold-Italic (`***`)** in a sentence for emphasis.
