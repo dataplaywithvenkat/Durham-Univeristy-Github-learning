@@ -18,11 +18,11 @@
 # gems:
 #   - jekyll-seo-tag
 
-# remote_theme: jeffreytse/jekyll-theme-yat
-# title: YAT
+remote_theme: jeffreytse/jekyll-theme-yat
+title: YAT
 
-# gems:
-#   - jekyll-seo-tag
+gems:
+- jekyll-seo-tag
 
 # remote_theme: dracula/artsylab-jekyll
 # title: Artsy
