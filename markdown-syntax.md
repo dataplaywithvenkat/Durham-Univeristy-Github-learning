@@ -260,17 +260,6 @@ print("Hi")
 
 🧠 **Explanation**: Used for communication within GitHub repos.
 
----
-
-```
-
----
-
-### How to use:
-
-- Copy the entire content above into a file named `README.md` or any `.md` file in your GitHub repo or GitHub Pages site.
-- When rendered, the **Table of Contents links will jump** to their respective sections smoothly.
-- This works seamlessly on GitHub, GitHub Pages, and many Markdown viewers.
 
 If you want, I can help with adding YAML front matter for Jekyll or customizing the style for your GitHub Pages. Just ask!
 ```
